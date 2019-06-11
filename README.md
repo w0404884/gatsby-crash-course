@@ -5,8 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby Crash Course on Traversy Media
 </h1>
+
+[Course Youtube Link](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
